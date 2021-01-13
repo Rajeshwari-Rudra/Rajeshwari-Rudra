@@ -1,6 +1,6 @@
 ## About me
 
-I'm Rajeshwari Rudravaram born and brought in Hyderabad which is located in southern part of India.I did my undergraduation in Electronics and Communication Engineering from Jawaharlal Nehru Technological University Hyderabad.Currently I'm pursuing Masters in Applied Computer Science from Northwest Missouri State University.After completion of my UG program,I have been into various platforms.I worked as a PHP Developer for first two years and then worked as a Technical support for three years,later on I worked as Quality Assurance for two years.My hobbies are travelling,chit-chatting with friends and browsing web.My short term goal is to become a Data scientist and my long term goal is to become an Entrepreneur.
+I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located in southern part of India.I did my undergraduation in Electronics and Communication Engineering from Jawaharlal Nehru Technological University Hyderabad.Currently I'm pursuing Masters in Applied Computer Science from Northwest Missouri State University.After completion of my UG program,I have been into various platforms.I worked as a PHP Developer for first two years and then worked as a Technical support for three years,later on I worked as Quality Assurance for two years.My hobbies are travelling,chit-chatting with friends and browsing web.My short term goal is to become a Data scientist and my long term goal is to become an Entrepreneur.
 
 ## Collaboration
 - GitHub: Profile / Repos 
