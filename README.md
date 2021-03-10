@@ -7,6 +7,8 @@ I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located at s
 
 ![Rajeshwari Rudravaram GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshwari-rudra&show_icons=true&theme=blue-green)
 
+
+## Tools and Languages used in GitHub
 ![Most used languages in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshwari-rudra&langs_count=9)
 
 
@@ -24,7 +26,7 @@ I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located at s
 - Python
 - JSON
 - Jupyter Notebook
-- Vscode
+- VS Code
 
 ## Links to Certifications
 - [Basic concepts of Big Data](https://www.youracclaim.com/badges/f7b6eda3-12c4-4785-985a-f6967ede6819/public_url)
