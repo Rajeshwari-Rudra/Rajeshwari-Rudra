@@ -5,11 +5,13 @@ I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located at s
 ## Collaboration
 - GitHub: Profile / Repos 
 
+## GitHub Stats
+
 ![Rajeshwari Rudravaram GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshwari-rudra&show_icons=true&theme=blue-green)
 
 
 ## Tools and Languages used in GitHub
-![Most used languages in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshwari-rudra&langs_count=9)
+![Most used languages in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshwari-rudra&langs_count=6)
 
 
 ## Experience
