@@ -1,9 +1,10 @@
 ## About me
 
-I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located at southern part of India.I did my undergraduation in Electronics and Communication Engineering from Jawaharlal Nehru Technological University Hyderabad.Currently I'm pursuing Masters in Applied Computer Science from Northwest Missouri State University.After completion of my UG program,I have been into various platforms.I worked as a PHP Developer for first two years and then worked as a Technical support for three years,later on I worked as Quality Assurance for two years.My hobbies are travelling,chit-chatting with friends and browsing web.My short term goal is to become a Data scientist and my long term goal is to become an Entrepreneur.
+I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located at southern part of India.I did my undergraduation in Electronics and Communication Engineering from Jawaharlal Nehru Technological University Hyderabad.Currently I'm pursuing Masters in Applied Computer Science from Northwest Missouri State University.After completion of my UG program,I have been into various platforms.I worked as a PHP Developer for first two years and then worked as a Technical support for three years,later on I worked as Quality Assurance for two years.My hobbies are travelling,chit-chatting with friends and browsing web.My short term goal is to become a Big Data Engineer and my long term goal is to become an Entrepreneur.
 
 ## Collaboration
-- GitHub: Profile / Repos 
+- GitHub flow : Create or Delete the branches
+- GitHub: Create repos / Forking / Pull Requests / Resolving Merge Conflicts / Closing PR's / Revert / Push
 
 ## GitHub Stats
 
@@ -33,6 +34,7 @@ I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located at s
 ## Links to Certifications
 - [Basic concepts of Big Data](https://www.youracclaim.com/badges/f7b6eda3-12c4-4785-985a-f6967ede6819/public_url)
 - [Hadoop](https://www.youracclaim.com/badges/5b1a65df-c3f2-4eee-ba99-840fe5e5d03b/public_url)
+- [Python for Data Science](https://www.youracclaim.com/earner/earned/badge/1be82231-d974-4eb6-8e41-90a0ef9904d2)
 
 
 ## LinkedIn Profile 
